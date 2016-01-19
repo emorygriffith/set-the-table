@@ -1,0 +1,66 @@
+ul{
+  padding: 0;
+  list-style-type: none;
+}
+.plate{
+  height:60px;
+  width:60px;
+  border-radius: 100%;
+  background-color: #fff;
+  border:solid;
+  display:inline-block;
+}
+
+
+.theTable{
+  background-color: #7D6644;
+  height:200px;
+  background-image: url('http://www.elated.com/res/File/articles/development/javascript/jquery/kitchen-table-slick-photo-light-table-css3-jquery/images/wooden-table.jpg');
+  border-radius: 5px;
+}
+
+.fruitBasket{
+  height:120px;
+  margin-top: 25px;
+}
+
+.tablePlate{
+  height:100px;
+  width:100px;
+  border-radius: 100%;
+  background-color: #fff;
+  border:solid;
+  display:inline-block;
+  margin-top:15%;
+}
+//below the table
+.people{
+  margin-top:30px;
+  margin-bottom: 30px;
+
+
+
+  .numInput{
+    width:35px;
+    display:inline;
+  }
+}
+
+
+.fruit{
+  height:15px;
+  width:15px;
+  border-radius:100%;
+  float:left;
+
+}
+.apple{
+
+  background-color: red;
+}
+.orange{
+  background-color: orange;
+}
+.grape{
+  background-color: purple;
+}
